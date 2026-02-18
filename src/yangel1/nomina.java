@@ -34,7 +34,7 @@ public class nomina {
                         String puesto = sc.nextLine(); 
                         System.out.print("Año de Ingreso: ");
                         String anio = sc.next();
-                        System.out.print("Salario Base (RD$): ");1
+                        System.out.print("Salario Base (RD$): ");
                         double salario = sc.nextDouble();
                         System.out.print("Préstamo (RD$): ");
                         double prestamo = sc.nextDouble();
